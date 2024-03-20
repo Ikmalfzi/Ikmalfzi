@@ -358,12 +358,12 @@ border-radius: 100%;
 
 /* ===== WORK =====*/
 .work__container {
-  row-gap: 6rem;
+  row-gap: 3rem;
 }
 
 .work__img {
   box-shadow: 100px 100px 100px rgba(14, 36, 49, 0.30);
-  border-radius: .5rem;
+  border-radius: .2rem;
   overflow: hidden;
 }
 
